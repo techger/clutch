@@ -3,6 +3,8 @@ package com.dglproject.partner.ui.activities;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.dglproject.partner.R;
+
 public class UserListingActivity extends AppCompatActivity {
 
     @Override
