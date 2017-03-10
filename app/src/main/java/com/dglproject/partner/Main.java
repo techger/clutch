@@ -4,7 +4,7 @@ import android.app.Application;
 /**
  * Created by Tortuvshin Byambaa on 3/10/2017.
  */
-public class Main {
+public class Main extends Application{
 
  	private static boolean sIsChatActivityOpen = false;
 
@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void setChatActivityOpen(boolean isChatActivityOpen) {
-        FirebaseChatMainApp.sIsChatActivityOpen = isChatActivityOpen;
+        Main.sIsChatActivityOpen = isChatActivityOpen;
     }
 
     @Override
