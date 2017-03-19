@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Partner</string>
+    <string name="app_name">DGL Partner</string>
+    <string name="action_settings">Тохиргоо</string>
+    <string name="email">Мэйл хаяг</string>
+    <string name="password">Нууц үг</string>
+    <string name="login">Нэвтрэх</string>
+    <string name="login_register">Шинээр бүртгүүлэх !</string>
+    <string name="register">Бүртгүүлэх</string>
+
+    <string name="user_successfully_added">Амжилттай бүртгүүллээ!</string>
+    <string name="user_unable_to_add">Бүртгүүлэхэд алдаа гарлаа!</string>
+    <string name="adding_user_to_db">Хэрэглэгчийн мэдээлэл амжилттай нэмлээ.</string>
+    <string name="loading">Уншиж байна</string>
+    <string name="please_wait">Уншиж байна...</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Зурвас бичих...</string>
+    <string name="action_logout">Гарах</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Гарах</string>
+    <string name="are_you_sure">Зөвшөөрч байна уу ?</string>
+    <string name="cancel">Буцах</string>
 </resources>
