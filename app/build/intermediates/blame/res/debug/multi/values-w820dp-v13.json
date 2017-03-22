@@ -11,13 +11,25 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\values-w820dp\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 47,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\values-w820dp\\ids.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
                     }
                 }
             }
