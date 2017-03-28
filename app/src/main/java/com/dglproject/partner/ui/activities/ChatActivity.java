@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 
-import com.dglproject.partner.Main;
+import com.dglproject.partner.DGLPartner;
 import com.dglproject.partner.R;
 import com.dglproject.partner.ui.fragments.ChatFragment;
 import com.dglproject.partner.utils.Constants;
@@ -58,12 +58,12 @@ public class ChatActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        Main.setChatActivityOpen(true);
+        DGLPartner.setChatActivityOpen(true);
     }
 
     @Override
     protected void onPause() {
         super.onPause();
-        Main.setChatActivityOpen(false);
+        DGLPartner.setChatActivityOpen(false);
     }
 }

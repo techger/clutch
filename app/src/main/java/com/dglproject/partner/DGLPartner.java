@@ -4,7 +4,7 @@ import android.app.Application;
 /**
  * Created by Tortuvshin Byambaa on 3/10/2017.
  */
-public class Main extends Application{
+public class DGLPartner extends Application{
 
  	private static boolean sIsChatActivityOpen = false;
 
@@ -13,7 +13,7 @@ public class Main extends Application{
     }
 
     public static void setChatActivityOpen(boolean isChatActivityOpen) {
-        Main.sIsChatActivityOpen = isChatActivityOpen;
+        DGLPartner.sIsChatActivityOpen = isChatActivityOpen;
     }
 
     @Override

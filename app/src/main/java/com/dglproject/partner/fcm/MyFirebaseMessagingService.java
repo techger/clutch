@@ -9,7 +9,7 @@ import android.net.Uri;
 import android.support.v7.app.NotificationCompat;
 import android.util.Log;
 
-import com.dglproject.partner.Main;
+import com.dglproject.partner.DGLPartner;
 import com.dglproject.partner.R;
 import com.dglproject.partner.events.PushNotificationEvent;
 import com.dglproject.partner.ui.activities.ChatActivity;
@@ -49,7 +49,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
             String fcmToken = remoteMessage.getData().get("fcm_token");
 
             // Don't show notification if chat activity is open.
-            if (!Main.isChatActivityOpen()) {
+            if (!DGLPartner.isChatActivityOpen()) {
                 sendNotification(title,
                         message,
                         username,
