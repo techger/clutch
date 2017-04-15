@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "530728560133",
-    "firebase_url": "https://dglpartner.firebaseio.com",
-    "project_id": "dglpartner",
-    "storage_bucket": "dglpartner.appspot.com"
+    "project_number": "682802544375",
+    "firebase_url": "https://dgl-partner.firebaseio.com",
+    "project_id": "dgl-partner",
+    "storage_bucket": "dgl-partner.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:530728560133:android:cb94eb9f8b4d5d64",
+        "mobilesdk_app_id": "1:682802544375:android:cb94eb9f8b4d5d64",
         "android_client_info": {
           "package_name": "com.dglproject.partner"
         }
       },
       "oauth_client": [
         {
-          "client_id": "530728560133-sh4bj71dqj841el6q5a306rju0egpth3.apps.googleusercontent.com",
+          "client_id": "682802544375-etc4b01kav3jrhoqt2qme7f8vtits3bf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAemqIwuWfilnhN0XVRZw8CR2aKxL6P3zc"
+          "current_key": "AIzaSyDcnlal3EIlB6DD23-L8ffb8aa8WjuFE5M"
         }
       ],
       "services": {
