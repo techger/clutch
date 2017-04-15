@@ -11,7 +11,14 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\values-w820dp\\dimens.xml"
+                    "file": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
                 }
             },
             {

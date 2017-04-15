@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error_24dp.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_error_24dp.png"
     }
 ]
