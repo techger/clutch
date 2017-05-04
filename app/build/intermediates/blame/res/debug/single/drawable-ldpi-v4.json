@@ -1,10 +1,174 @@
 [
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_voice_search.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_voice_search.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_lang_ru.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_lang_ru.png"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_category.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_category.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_white_mail.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_white_mail.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_clear_button.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_clear_button.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_lang_en.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_lang_en.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_cart_w.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_cart_w.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_lang_cn.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_lang_cn.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_call.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_call.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_cart.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_cart.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_share_w.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_share_w.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_logout.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_logout.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_add.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_add.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_menu.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_menu.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_search_history.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_search_history.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_home.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_home.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_left_arrow_key.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_left_arrow_key.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_history_white.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_history_white.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_share.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_share.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_search_white.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_search_white.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_refresh.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_refresh.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_dart_board.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_dart_board.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_navigation_close.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_navigation_close.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_sound.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_sound.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_app.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_app.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_notifications_black_24dp.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error_24dp.png",
         "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_error_24dp.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sync_black_24dp.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_back_left_arrow.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_back_left_arrow.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_technology.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_technology.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_round.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_round.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_mail.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_mail.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_fb.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_fb.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_send.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_send.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_settings.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_settings.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_search.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_search.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_lang_mn.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_lang_mn.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_google.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_google.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_instagram.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_instagram.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_info_black_24dp.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_navigation_arrow_back.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_navigation_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dgl_mail_w.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dgl_mail_w.png"
     }
 ]

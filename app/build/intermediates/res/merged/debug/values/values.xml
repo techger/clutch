@@ -677,9 +677,9 @@
     <string name="firebase_database_url" translatable="false">https://dgl-partner.firebaseio.com</string>
     <string name="font_family_roboto_light">sans-serif-thin</string>
     <string name="gcm_defaultSenderId" translatable="false">682802544375</string>
-    <string name="google_api_key" translatable="false"> AIzaSyCKAgjfaX4ewMqUx-klUuhSLmZ2nMl3gqs</string>
+    <string name="google_api_key" translatable="false">AIzaSyDcnlal3EIlB6DD23-L8ffb8aa8WjuFE5M</string>
     <string name="google_app_id" translatable="false">1:682802544375:android:cb94eb9f8b4d5d64</string>
-    <string name="google_crash_reporting_api_key" translatable="false"> AIzaSyCKAgjfaX4ewMqUx-klUuhSLmZ2nMl3gqs</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDcnlal3EIlB6DD23-L8ffb8aa8WjuFE5M</string>
     <string name="google_storage_bucket" translatable="false">dgl-partner.appspot.com</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="library_FloatingActionButton_author">Oleksandr Melnykov</string>

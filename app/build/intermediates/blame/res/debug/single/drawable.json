@@ -8,6 +8,10 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_checkout_circle.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_checkout_circle.png"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -18,6 +22,14 @@
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\cart.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
@@ -34,6 +46,10 @@
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_rounded_rect_bg.xml",
         "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\chat_rounded_rect_bg.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_other_share.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_other_share.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -60,6 +76,10 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
@@ -74,6 +94,10 @@
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fav.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\fav.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
@@ -96,12 +120,48 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_other_copyright.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_other_copyright.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_other_more.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_other_more.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_other_email.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_other_email.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\send.png"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_save.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trash.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\trash.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\call.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
@@ -128,6 +188,10 @@
         "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\rounded_rect_bg.xml"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_other_build.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_other_build.png"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -144,12 +208,32 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\app.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corner_radius.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\corner_radius.xml"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_other_appname.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_other_appname.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slider_indicator.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\slider_indicator.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_other_rate.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\ic_other_rate.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
@@ -166,6 +250,14 @@
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_image.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\header_image.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\chat.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -192,12 +284,20 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_circular_image.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\profile_circular_image.xml"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_password_eye.xml"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mail.png",
+        "source": "D:\\Dglproject\\Partner\\app\\src\\main\\res\\drawable\\mail.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
