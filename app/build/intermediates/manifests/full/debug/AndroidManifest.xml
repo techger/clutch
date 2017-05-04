@@ -32,7 +32,7 @@
         <activity
             android:name="com.dglproject.partner.activities.SplashActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar.Splash" >
+            android:theme="@style/AppFullScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -42,11 +42,11 @@
         <activity
             android:name="com.dglproject.partner.activities.LoginActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppAuth" />
         <activity
             android:name="com.dglproject.partner.activities.RegisterActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:theme="@style/AppAuth" />
         <activity
             android:name="com.dglproject.partner.activities.UserListingActivity"
             android:label="@string/app_name"
