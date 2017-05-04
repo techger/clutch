@@ -24,12 +24,12 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png",
@@ -60,12 +60,12 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\dgl_refresh.png",
         "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\dgl_refresh.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_error_24dp.png",
@@ -104,12 +104,12 @@
         "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\dgl_settings.png"
     },
     {
-        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
-    },
-    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",

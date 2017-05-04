@@ -689,15 +689,27 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">Тухай</string>
     <string name="action_logout">Гарах</string>
     <string name="action_settings">Тохиргоо</string>
+    <string name="add">Нэмэх</string>
     <string name="adding_user_to_db">Хэрэглэгчийн мэдээлэл амжилттай нэмлээ.</string>
+    <string name="app_copyright">Зохигчийн эрх © 2017 DGL BRAND.</string>
+    <string name="app_email">toroo.byamba@gmail.com</string>
     <string name="app_name">DGL Partner</string>
+    <string name="app_version">Хувилбар 1.0.0</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="are_you_sure">Зөвшөөрч байна уу ?</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brand">Брэнд</string>
     <string name="cancel">Буцах</string>
+    <string name="card">Сагс</string>
+    <string name="cart_add_success">Сагсанд амжилттай нэмлээ</string>
+    <string name="category">Ангилал</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="clear_all_order">Бүх захиалгаа цуцлах уу?</string>
+    <string name="clear_one_order">Энэхүү захиалгыг цуцлах уу?</string>
+    <string name="clear_order">Бүх захиалга цуцлах</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -718,17 +730,37 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="company">Компаниуд</string>
+    <string name="company_add">Байгууллага нэмэх</string>
+    <string name="company_description">Байгууллагын танилцуулга</string>
+    <string name="company_name">Байгууллагын нэр</string>
+    <string name="decrease_order">-</string>
     <string name="default_web_client_id" translatable="false">682802544375-etc4b01kav3jrhoqt2qme7f8vtits3bf.apps.googleusercontent.com</string>
     <string name="define_FloatingActionButton"/>
+    <string name="details">Дэлгэрэнгүй</string>
+    <string name="edit_submit_order">Хадгалах</string>
     <string name="email">Мэйл хаяг</string>
+    <string name="err_mail">Мэйл хаяг буруу байна</string>
+    <string name="err_pass_confirm">Нууц үг таарахгүй байна</string>
+    <string name="err_pass_short">Нууц үг 4-өөс олон тэмдэгт байна</string>
+    <string name="err_try_again">Дахин оролдно уу</string>
+    <string name="err_username_pass_invalid">Хэрэглэгчийн нэр нууц үг буруу байна</string>
+    <string name="err_username_short">Хэрэглэгчийн нэр 3-аас багагүй тэмдэгт байна</string>
+    <string name="error">Алдаа гарлаа</string>
+    <string name="exit_two_press">Гарах бол дахин дарна уу</string>
+    <string name="facebook">Facebook</string>
     <string name="firebase_database_url" translatable="false">https://dgl-partner.firebaseio.com</string>
     <string name="font_family_roboto_light">sans-serif-thin</string>
     <string name="gcm_defaultSenderId" translatable="false">682802544375</string>
+    <string name="google">Google</string>
     <string name="google_api_key" translatable="false">AIzaSyDcnlal3EIlB6DD23-L8ffb8aa8WjuFE5M</string>
     <string name="google_app_id" translatable="false">1:682802544375:android:cb94eb9f8b4d5d64</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDcnlal3EIlB6DD23-L8ffb8aa8WjuFE5M</string>
     <string name="google_storage_bucket" translatable="false">dgl-partner.appspot.com</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">Тусламж</string>
+    <string name="increase_order">+</string>
+    <string name="introduction">Танилцуулга</string>
     <string name="library_FloatingActionButton_author">Oleksandr Melnykov</string>
     <string name="library_FloatingActionButton_authorWebsite">https://github.com/makovkastar/FloatingActionButton</string>
     <string name="library_FloatingActionButton_isOpenSource">true</string>
@@ -738,24 +770,98 @@
     <string name="library_FloatingActionButton_libraryWebsite">https://github.com/makovkastar/FloatingActionButton</string>
     <string name="library_FloatingActionButton_licenseId">mit</string>
     <string name="library_FloatingActionButton_repositoryLink">https://github.com/makovkastar/FloatingActionButton</string>
-    <string name="loading">Уншиж байна</string>
+    <string name="loading">Уншиж байна...</string>
     <string name="login">Нэвтрэх</string>
     <string name="login_register">Шинээр бүртгүүлэх !</string>
+    <string name="login_required">Та нэвтрэх шаардлагатай</string>
     <string name="logout">Гарах</string>
+    <string name="menu">Цэс</string>
+    <string name="model">Загвар/Модел/Код</string>
+    <string name="more_apps"/>
+    <string name="more_summary">DGL PROJECT бусад програмууд.</string>
+    <string name="my_card">Таны сагс</string>
+    <string name="my_order">Захиалгын дэлгэрэнгүй</string>
+    <string name="name">Нэр</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="next">Дараагийн</string>
+    <string name="no">Үгүй</string>
+    <string name="no_internet">Интернет холболтоо шалгана уу</string>
+    <string name="no_order">Захиалга байхгүй байна</string>
+    <string name="no_product">Бүтээгдэхүүний мэдээлэл байхгүй байна</string>
+    <string name="not_found">Хоосон байна</string>
+    <string name="number_order">Захиалгын хэмжээ</string>
+    <string name="order">Захиалга</string>
     <string name="password">Нууц үг</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
+    <string name="phone">Утасны дугаар</string>
     <string name="please_wait">Уншиж байна...</string>
+    <string name="price">Үнэ</string>
+    <string name="product">Бүтээгдэхүүн</string>
+    <string name="product_add">Бүтээгдэхүүн нэмэх</string>
+    <string name="product_list">Бүтээгдэхүүний жагсаалт</string>
+    <string name="rate_summary">Та үнэлгээ болон саналаа өгнө үү</string>
+    <string name="re_enter_pass">Нууц үгээ дахин оруулна уу</string>
+    <string name="recover_account">Нууц үг марсан</string>
     <string name="register">Бүртгүүлэх</string>
+    <string name="register_error">Бүртгүүлэхэд алдаа гарлаа</string>
+    <string name="register_loaging">Бүртгэл үүсгэж байна</string>
+    <string name="register_success">Бүртгэл амжилттай боллоо</string>
+    <string name="remember">Намайг сана</string>
+    <string name="save">Хадгалах</string>
+    <string name="search_hint">Хайх…</string>
     <string name="search_menu_title">Search</string>
+    <string name="send_mail">Мэйл илгээх</string>
+    <string name="server_error">Сэрвэртэй холбогдох үед алдаа гарлаа</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="share">Хуваалцах</string>
+    <string name="share_content"/>
+    <string name="share_summary">Бусад хүмүүст хуваалцан</string>
+    <string name="signup">Бүртгүүлэх</string>
+    <string name="skip">Алгасах</string>
+    <string name="slide_1_desc"> Шинэ санаа эрэлхийлэгчдийн мэдээллийг
+                    манай сайтаас авч хамтын ажиллагаагаа өргөжүүлээрэй!</string>
+    <string name="slide_1_title">DGL Brand!</string>
+    <string name="slide_2_desc">Та нийгмийн сайн сайхны төлөө
+                    хөрөнгө оруулахад бэлэн үү?!</string>
+    <string name="slide_2_title">DGL Brand</string>
+    <string name="slide_3_desc">Бид танд хөрөнгө оруулагч
+                    хувь хүн, байгууллагатай хамтран
+                    ажиллах гүүрийг санал болгож байна.!</string>
+    <string name="slide_3_title">DGL Brand</string>
+    <string name="slide_4_desc">Бид таныг сайн санаат байгууллага,
+                    хувь хүнтэй холбож өгнө.!</string>
+    <string name="slide_4_title">DGL Brand</string>
+    <string name="start">Эхлэх</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="submit_order">Сагсанд хийх</string>
+    <string name="success">Амжилттай бүртгэгдлээ</string>
+    <string name="tax">Татвар</string>
+    <string name="title_activity_department">Салбарууд</string>
     <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_app_copyright">Зохиогчын эрх</string>
+    <string name="title_app_email">Мэйл хаяг</string>
+    <string name="title_app_more">Бусад програмууд</string>
+    <string name="title_app_name">Application Name</string>
+    <string name="title_app_rate">Үнэлгээ өгөх</string>
+    <string name="title_app_share">Хуваалцах</string>
+    <string name="title_app_version">Програмын хувилбар</string>
+    <string name="total">Нийт</string>
+    <string name="total_cost">Нийт дүн</string>
+    <string name="total_number">Нийт тоо</string>
+    <string name="total_order">Нийт захиалга :</string>
+    <string name="twitter">Twitter</string>
     <string name="type_a_message">Зурвас бичих...</string>
+    <string name="user">Хэрэглэгч</string>
     <string name="user_successfully_added">Амжилттай бүртгүүллээ!</string>
     <string name="user_unable_to_add">Бүртгүүлэхэд алдаа гарлаа!</string>
+    <string name="username">Хэрэглэгчийн нэр</string>
+    <string name="waiting_upload">Зураг хуулж байна</string>
+    <string name="yes">Тийм</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="AndroidImageSlider_Attractive_Rect_Blue">
