@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -34,7 +46,15 @@
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="background_tab_pressed">#1AFFFFFF</color>
-    <color name="black">#000000</color>
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+    <color name="black">#ff000000</color>
+    <color name="black_50">#88000000</color>
+    <color name="blue50">#E3F2FD</color>
+    <color name="blue500">#2196F3</color>
+    <color name="blue700">#1976D2</color>
     <color name="blue_100">#BBDEFB</color>
     <color name="blue_200">#90CAF9</color>
     <color name="blue_300">#64B5F6</color>
@@ -81,9 +101,10 @@
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="colorAccent">@color/cyan_700</color>
-    <color name="colorPrimary">@color/blue_grey_500</color>
-    <color name="colorPrimaryDark">@color/blue_grey_700</color>
+    <color name="colorAccent">#555</color>
+    <color name="colorDivider">#1F000000</color>
+    <color name="colorPrimary">#00c97b</color>
+    <color name="colorPrimaryDark">#4c9e73</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
@@ -92,6 +113,7 @@
     <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
     <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="cyan50">#E0F7FA</color>
     <color name="cyan_100">#B2EBF2</color>
     <color name="cyan_200">#80DEEA</color>
     <color name="cyan_300">#4DD0E1</color>
@@ -149,8 +171,22 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="facebook_color">#3b5998</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
+    <color name="google_color">#d34836</color>
+    <color name="gray">#DEFFFFFF</color>
+    <color name="gray_50">#DEFFFFFF</color>
+    <color name="green50">#E8F5E9</color>
+    <color name="greenA700">#00C853</color>
     <color name="green_100">#C8E6C9</color>
     <color name="green_200">#A5D6A7</color>
     <color name="green_300">#81C784</color>
@@ -300,6 +336,7 @@
     <color name="purple_A200">#E040FB</color>
     <color name="purple_A400">#D500F9</color>
     <color name="purple_A700">#AA00FF</color>
+    <color name="red50">#FFEBEE</color>
     <color name="red_100">#FFCDD2</color>
     <color name="red_200">#EF9A9A</color>
     <color name="red_300">#E57373</color>
@@ -314,8 +351,11 @@
     <color name="red_A200">#FF5252</color>
     <color name="red_A400">#FF1744</color>
     <color name="red_A700">#D50000</color>
+    <color name="red_fav">#ed4956</color>
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
+    <color name="search_field_bg">@color/white_ish</color>
+    <color name="search_layover_bg">@color/gray</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
@@ -338,7 +378,14 @@
     <color name="teal_A200">#64FFDA</color>
     <color name="teal_A400">#1DE9B6</color>
     <color name="teal_A700">#00BFA5</color>
-    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="twitter_color">#00aced</color>
+    <color name="white">#FFF</color>
+    <color name="white_50">#DEFFFFFF</color>
+    <color name="white_54">#8AFFFFFF</color>
+    <color name="white_87">#DEFFFFFF</color>
+    <color name="white_ish">#fffefefe</color>
+    <color name="yellow50">#FFFDE7</color>
     <color name="yellow_100">#FFF9C4</color>
     <color name="yellow_200">#FFF59D</color>
     <color name="yellow_300">#FFF176</color>
