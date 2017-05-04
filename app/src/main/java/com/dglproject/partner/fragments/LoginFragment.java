@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.dglproject.partner.R;
@@ -29,7 +30,8 @@ public class LoginFragment extends Fragment implements View.OnClickListener, Log
     private LoginPresenter mLoginPresenter;
 
     private EditText mETxtEmail, mETxtPassword;
-    private Button mBtnLogin, mBtnRegister;
+    private Button mBtnLogin;
+    private TextView  mBtnRegister;
 
     private ProgressDialog mProgressDialog;
 
@@ -52,7 +54,7 @@ public class LoginFragment extends Fragment implements View.OnClickListener, Log
         mETxtEmail = (EditText) view.findViewById(R.id.edit_text_email_id);
         mETxtPassword = (EditText) view.findViewById(R.id.edit_text_password);
         mBtnLogin = (Button) view.findViewById(R.id.button_login);
-        mBtnRegister = (Button) view.findViewById(R.id.button_register);
+        mBtnRegister = (TextView) view.findViewById(R.id.button_register);
     }
 
     @Override

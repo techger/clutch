@@ -5,45 +5,122 @@
     android:orientation="vertical"
     android:padding="@dimen/padding_avg">
 
-    <EditText
-        android:id="@+id/edit_text_email_id"
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/loginImage"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo"
+        android:layout_marginBottom="24dp" />
+
+    <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/email"
-        android:inputType="textEmailAddress" />
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+        <EditText android:id="@+id/edit_text_email_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapWords"
 
-    <EditText
-        android:id="@+id/edit_text_password"
+            android:hint="@string/username" />
+    </android.support.design.widget.TextInputLayout>
+    <!--  Password Label -->
+    <android.support.design.widget.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/password"
-        android:inputType="textPassword" />
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+        <EditText android:id="@+id/edit_text_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="@string/password"/>
+    </android.support.design.widget.TextInputLayout>
 
-    <android.support.v4.widget.Space
+    <android.support.v7.widget.AppCompatCheckBox
         android:layout_width="match_parent"
-        android:layout_height="@dimen/space_avg" />
+        android:layout_height="fill_parent"
+        android:text="@string/remember"
+        android:id="@+id/rememberMe"
+        android:checked="false"
+        android:layout_marginTop="10dp" />
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/button_login"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="24dp"
+        android:background="@color/colorPrimary"
+        android:padding="12dp"
+        android:textColor="@color/white"
+        android:text="@string/login"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
 
-        <Button
-            android:id="@+id/button_login"
-            style="?attr/borderlessButtonStyle"
+        <TextView android:id="@+id/passreset"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentEnd="true"
-            android:text="@string/login" />
+            android:text="@string/recover_account"
+            android:textSize="16dip"/>
 
-        <Button
-            android:id="@+id/button_register"
-            style="?attr/borderlessButtonStyle"
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_centerHorizontal="true"
-            android:text="@string/login_register" />
+            android:text="|"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="16dip"/>
 
-    </RelativeLayout>
+        <TextView android:id="@+id/button_register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/signup"
+            android:textSize="16dip"/>
+    </LinearLayout>
 
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/loginfb"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/facebook_color"
+        android:textColor="@color/white"
+        android:padding="12dp"
+        android:text="@string/facebook"/>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:columnCount="3">
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/loginTw"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@color/twitter_color"
+            android:padding="12dp"
+            android:text="@string/twitter"
+            android:textColor="@color/white"
+            android:layout_row="0"
+            android:layout_column="00"/>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/loginGl"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@color/google_color"
+            android:padding="12dp"
+            android:text="@string/google"
+            android:textColor="@color/white"
+            android:layout_row="0"
+            android:layout_column="2" />
+
+    </GridLayout>
 </LinearLayout>
