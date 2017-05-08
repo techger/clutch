@@ -1,14 +1,178 @@
 [
     {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_home.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_home.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_menu.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_menu.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_search_history.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_search_history.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_call.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_call.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_settings.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_settings.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_action_voice_search.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_voice_search.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_sound.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_sound.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_action_navigation_arrow_back.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_navigation_arrow_back.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_white_mail.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_white_mail.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_sync_black_24dp.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_cart_w.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_cart_w.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_mail.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_mail.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_history_white.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_history_white.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_share_w.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_share_w.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_category.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_category.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_logout.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_logout.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_technology.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_technology.xml"
+    },
+    {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_action_search_white.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_search_white.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_fb.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_fb.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_lang_mn.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_lang_mn.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_share.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_share.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_left_arrow_key.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_left_arrow_key.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_lang_en.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_lang_en.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_lang_ru.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_lang_ru.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_send.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_send.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_info_black_24dp.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_round.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_round.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_instagram.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_instagram.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_app.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_app.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_lang_cn.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_lang_cn.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_dart_board.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_dart_board.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_back_left_arrow.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_back_left_arrow.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_mail_w.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_mail_w.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_clear_button.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_clear_button.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_search.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_search.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_google.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_google.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_add.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_add.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_refresh.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_refresh.xml"
+    },
+    {
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_action_navigation_close.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_navigation_close.xml"
     },
     {
         "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_error_24dp.xml",
         "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_error_24dp.xml"
     },
     {
-        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "D:\\Dglproject\\Partner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\dgl_cart.xml",
+        "source": "D:\\Dglproject\\Partner\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dgl_cart.xml"
     }
 ]
