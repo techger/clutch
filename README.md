@@ -1,1 +1,1 @@
-# dglpartner-android
+# TechStar Firebase chat application
