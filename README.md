@@ -1,1 +1,1 @@
-# TechStar Firebase chat application
+# Connection
